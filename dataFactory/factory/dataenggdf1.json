@@ -1,0 +1,15 @@
+{
+	"name": "dataenggdf1",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "ukwest",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6b72376b-1fcb-45b9-8bdb-88c46a33e51e",
+		"tenantId": "91fb32cf-0323-4f6c-b68e-83053a73cc46"
+	}
+}
